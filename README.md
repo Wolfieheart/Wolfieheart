@@ -10,3 +10,25 @@ I am also a fan of running things in containers using [**Docker**](https://githu
 
 ----
 
+![Wolfst0rm Profile Stats](https://github-readme-stats.vercel.app/api?username=Wolfst0rm&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true)
+![Wolfst0rm Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfst0rm&layout=compact&theme=dark&icon_color=0075ff&show_icons=true&langs_count=10)
+[![Wolfst0rm Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wolfst0rm&theme=dark&layout=compact&langs_count=10)](https://wakatime.com/@Wolfst0rm)
+![Wolfst0rm Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Wolfst0rm&theme=dark)
+
+#### 👨‍💻 Check out what I'm currently working on
+
+- [Wolfst0rm/ArmorStandEditor-Issues](https://github.com/Wolfst0rm/ArmorStandEditor-Issues) (6 days ago) - For all Issues of ArmorStandEditor-Reborn
+- [Wolfst0rm/AntiMobGrief](https://github.com/Wolfst0rm/AntiMobGrief) (3 weeks ago) - A Simple AntiMobGriefing Plugin. 
+
+#### 🌱 My latest projects
+
+- [Wolfst0rm/ArmorStandEditor-Issues](https://github.com/Wolfst0rm/ArmorStandEditor-Issues) - For all Issues of ArmorStandEditor-Reborn
+- [Wolfst0rm/AntiMobGrief](https://github.com/Wolfst0rm/AntiMobGrief) - A Simple AntiMobGriefing Plugin. 
+- [Wolfst0rm/FreeSO-Translations-Dutch](https://github.com/Wolfst0rm/FreeSO-Translations-Dutch) - The UNOFFICIAL Dutch Translations for FreeSO ( https://freeso.org )
+- [Wolfst0rm/FreeSO-Test-Implementations](https://github.com/Wolfst0rm/FreeSO-Test-Implementations) - Wolfie&#39;s Test Implementations for the FreeSO API
+- [Wolfst0rm/GitLab](https://github.com/Wolfst0rm/GitLab) - Come Follow Me Over on GitLab - 
+
+#### 📇 Want your own profile-readme?
+Check out [readme-scribe](https://github.com/muesli/readme-scribe) if you are interested in generating your own profile-readme!
+Stats are generated with the awesome [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).
+{"mode":"full","isActive":false}
