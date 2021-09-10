@@ -17,16 +17,17 @@ I am also a fan of running things in containers using [**Docker**](https://githu
 
 #### 👨‍💻 Check out what I'm currently working on
 
+- [Wolfst0rm/AntiMobGrief-Rewrite](https://github.com/Wolfst0rm/AntiMobGrief-Rewrite) (today) - Bukkit Plugin to allow players to change MobGriefing Rules Dynamically
 - [Wolfst0rm/ArmorStandEditor-Issues](https://github.com/Wolfst0rm/ArmorStandEditor-Issues) (3 weeks ago) - For all Issues of ArmorStandEditor-Reborn
 - [Wolfst0rm/AntiMobGrief](https://github.com/Wolfst0rm/AntiMobGrief) (1 month ago) - A Simple AntiMobGriefing Plugin written in Java for Shamblecraft
 
 #### 🌱 My latest projects
 
+- [Wolfst0rm/AntiMobGrief-Rewrite](https://github.com/Wolfst0rm/AntiMobGrief-Rewrite) - Bukkit Plugin to allow players to change MobGriefing Rules Dynamically
 - [Wolfst0rm/ArmorStandEditor-Issues](https://github.com/Wolfst0rm/ArmorStandEditor-Issues) - For all Issues of ArmorStandEditor-Reborn
 - [Wolfst0rm/AntiMobGrief](https://github.com/Wolfst0rm/AntiMobGrief) - A Simple AntiMobGriefing Plugin written in Java for Shamblecraft
 - [Wolfst0rm/FreeSO-Translations-Dutch](https://github.com/Wolfst0rm/FreeSO-Translations-Dutch) - The UNOFFICIAL Dutch Translations for FreeSO ( https://freeso.org )
 - [Wolfst0rm/FreeSO-Test-Implementations](https://github.com/Wolfst0rm/FreeSO-Test-Implementations) - Wolfie&#39;s Test Implementations for the FreeSO API
-- [Wolfst0rm/GitLab](https://github.com/Wolfst0rm/GitLab) - Come Follow Me Over on GitLab - 
 
 #### 📇 Want your own profile-readme?
 Check out [readme-scribe](https://github.com/muesli/readme-scribe) if you are interested in generating your own profile-readme!
