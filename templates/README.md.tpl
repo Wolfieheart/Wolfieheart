@@ -1,30 +1,70 @@
-Hey there I am Wolfieheart and I am a Scrum Software Tester and Developer. I am very passionate about both my job and what I have developed. On my Github, you will see some of the projects that I have helped contribute to as a Tester. If you enjoy looking into the more technical side of things, or my developments, you can also find what I have been writing recently.
+![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=80000b) ![Server OS](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=80000b) ![Java](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=docker&logoColor=white&color=80000b) ![IDE](https://img.shields.io/badge/IDE-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=80000b) ![Java](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=80000b) ![Game](https://img.shields.io/badge/Game-Minecraft-informational?style=flat&logo=mojangstudios&logoColor=white&color=80000b) ![Browser](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=googlechrome&logoColor=white&color=80000b)
+### Hi There!
+<img align="right" src="https://avatars.githubusercontent.com/u/18635695?v=4" width="200" height="190" />
 
-I mostly work with [**Java**](http://github.com/topics/java) and [**JavaScript**](http://github.com/topics/javascript). I also know [**PHP**](https://github.com/topics/php), [**Python**](https://github.com/topics/python) and [**C#**](https://github.com/topics/csharp).
+My name is Larry, but I normally go by Wolfieheart and I mainly work with Java. I am currently working at [OMP](https://www.omp.com) as a Test Engineer. Programming is a hobby of mine, not something I foresee myself doing as a day job.
+
+I originally got into programming (for myself) in 2015 during my University Studies and I have been using Java since then. Recently, during COVID (July 2021), I started the upkeep and maintenance part of a plugin called ArmorStandEditor, since I loved Minecraft (as a player and gamer) and wanted to contribute back to the community.
+
+Also, I love my cats, Loki and Aurë, as much as I love my wife, who I married in 2020.
+
+[Click Here](https://www.linkedin.com/in/laurence-somers/) to visit my LinkedIn to learn more about me, if you want.
 
 ----
 
-I use [**Windows NT**](https://github.com/topics/windows) as my front-end daily driver and I use [**Linux/Debian**](https://github.com/topics/linux) as my server-side daily driver.  My first introduction to Windows came in the late 90s and my first introduction to Linux came in 2014. 
+### Expertise
+I started learning how to program in 2013 and since I started, I have fallen in love with Java and would call it my main area of Expertise. Throughout University, I was exposed to Java & C#/C++ but found that C++/C# while fun, and I am able to write basic programs in them, they didnt interest me as much as Java did. I also know other various programming languages such as Javascript, VBS, Python and HTML/CSS/PHP Stack.\
+I have 2-3 years experience via OMP with SQLServer, SQLPLUS, Oracle for Database. External to OMP, I also have 1-2 years of experience with SQLite and MariaDB.\
+I have 1 year experience with Docker.\
+I also know Git and have dealt with the rollout and training of colleagues with it.
 
-I am also a fan of running things in containers using [**Docker**](https://github.com/topics/docker). 
+I have been playing Minecraft since 2012 (around the times of 1.2.5) and know most of the moderation side of the game and which plugins interact to help moderators do what they have to do.\
+I was an Admin for the [ShambleCraft](https://www.shamblecraft.net/) SMP server between 2018 and 2022, but stepped down due to personal reasons.\
+I prefer to use [Paper](https://github.com/PaperMC/Paper) for all the server side software and [Pterodactyl's Panel](https://github.com/Pterodactyl) as my Web Client.
 
 ----
 
-![Wolfieheart's Profile Stats](https://github-readme-stats.vercel.app/api?username=Wolfieheart&show_icons=true&theme=dark&count_private=true&icon_color=0075ff&include_all_commits=true)
-![WWolfieheart's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfieheart&layout=compact&theme=dark&icon_color=0075ff&show_icons=true&langs_count=10)
-[![Wolfieheart's Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wolfieheart&theme=dark&layout=compact&langs_count=10)](https://wakatime.com/@Wolfieheart)
-![Wolfieheart's Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=Wolfieheart&theme=dark)
+### Favourite Software
+For front end and main daily use - I use Windows. I have been eying Arch as an eventual replacement to my Windows Environment, but time will tell if I am brave enough to do the jump, as I love older games.\
+For back end - I use Linux/Debian.\
+For IDEs -> I use the JetBrains toolset. Some might say they are slow, bloated etc. but for me, they provide the features that I want at no cost.
 
-#### 👨‍💻 Check out what I'm currently working on
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}}) - {{.Repo.Description}}
-{{- end}}
+----
+### Favourite Games
+My all-time favourite game is The Sims Bustin` Out for which I am a [speed runner](https://speedrun.com/nightwish). \
+Outside The Sims series of games, I love Minecraft, MMOs and Heist/Shooter Games, such as Payday 2 and Call of Duty 4: Modern Warfare/2/3. \
+I also like the GTA series, The Red Dead Series of games and chill simulation games.
 
-#### 🌱 My latest projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
+----
 
-#### 📇 Want your own profile-readme?
-Check out [readme-scribe](https://github.com/muesli/readme-scribe) if you are interested in generating your own profile-readme!
-Stats are generated with the awesome [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).
+### Where to find me
+You can find me on:\
+- Discord (Wolfheart#7420)
+- on [Twitch](https://twitch.tv/Wolfieheart_)
+- on [the SpigotMC Forums](https://spigotmc.org)
+- On [Twitter](https://twitter.com/Wolfstorm__)
+
+----
+### Favourite Quotes
+
+> "Treat others the way you would like to be treated"\
+> \-My loving parents
+
+> "Life's too short, make the most of it"\
+> \-TheSyndicateProject
+
+----
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolfieheart&theme=nord&layout=compact&show_icons=true" />
+  </a>
+  <p></p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wolfieheart&show_icons=true&include_all_commits=true&count_private=true&theme=nord" />
+  </a>
+  <p></p>
+  <a>
+    <img align="center" src="https://profile-counter.glitch.me/Wolfieheart/count.svg" />
+  </a>
+</p>
