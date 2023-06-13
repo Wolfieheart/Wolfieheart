@@ -4,7 +4,7 @@
 
 My name is Larry, but I normally go by Wolfieheart and I mainly work with Java. I am currently working at [OMP](https://www.omp.com) as a Test Engineer. Programming is a hobby of mine, not something I foresee myself doing as a day job.
 
-I originally got into programming (for myself) in 2015 during my University Studies and I have been using Java since then. Recently, during COVID (July 2021), I started the upkeep and maintenance part of a plugin called ArmorStandEditor, since I loved Minecraft (as a player and gamer) and wanted to contribute back to the community.
+I originally got into programming (for myself) in 2015 during my University Studies and I have been using Java since then. Recently, during COVID (July 2021), I started the upkeep and maintenance part of a plugin called [ArmorStandEditor](https://github.com/Wolfieheart/ArmorStandEditor), since I loved Minecraft (as a player and gamer) and wanted to contribute back to the community.
 
 Also, I love my cats, Loki and Aurë, as much as I love my wife, who I married in 2020.
 
