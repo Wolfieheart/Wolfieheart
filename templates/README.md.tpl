@@ -64,7 +64,5 @@ You can find me on:\
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wolfieheart&show_icons=true&include_all_commits=true&count_private=true&theme=nord" />
   </a>
   <p></p>
-  <a>
-    <img align="center" src="https://profile-counter.glitch.me/Wolfieheart/count.svg" />
-  </a>
 </p>
+[![ArmorStandEditor-Reborn](https://api.mcbanners.com/banner/resource/hangar/ArmorStandEditor-Reborn/banner.png?background__template=MANGO)](https://hangar.papermc.io/Wolfieheart/ArmorStandEditor-Reborn)
